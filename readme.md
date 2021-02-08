@@ -4,4 +4,4 @@ Using the "Viewport Rect" camera property in Unity to design split screen output
 The solution for this is using render textures for cameras and displaying them on a UI canvas relative to the desired display.
 
 ## EXAMPLE: VIOSO Warp & Blend Post-Process in a 3x1 Nvidia Mosaic
-![Screenshot](mosaicScreenshot.png)
+![Screenshot](https://github.com/Ahmed-jerbi/Digital-MultiDisplay-Compound-PostFX/blob/master/mosaicScreenshot.PNG)
