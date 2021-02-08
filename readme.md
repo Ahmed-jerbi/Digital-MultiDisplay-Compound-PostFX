@@ -7,5 +7,5 @@ The solution for this is using render textures for cameras and displaying them o
 ![Screenshot](https://github.com/Ahmed-jerbi/Digital-MultiDisplay-Compound-PostFX/blob/master/mosaicScreenshot.PNG)
 
 
-Download the mapping file (.VWF) of the Panadome here: 
+Download the warping file (.VWF) here: 
 https://vioso-my.sharepoint.com/:u:/p/jerbi_ahmed/EQ7_WsvvhUNHn-RLiYtCk-8BfYnhjK_5IKEx80y2LPCsKA?e=5hxZK4
